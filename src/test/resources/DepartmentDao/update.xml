@@ -1,0 +1,5 @@
+<dataset>
+    <departments id="1" name="Applied math" head="1"/>
+    <departments id="2" name="Physics" head="2"/>
+    <departments id="3" name="UPDATED" head="3"/>
+</dataset>

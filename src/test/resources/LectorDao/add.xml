@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <lectors id="1" name="First" surname="Lector" degree="assistant" salary="1000"/>
+    <lectors id="2" name="Second" surname="Lector" degree="associate professor" salary="2000"/>
+    <lectors id="3" name="Third" surname="Lector" degree="professor" salary="3000"/>
+    <lectors id="4" name="NEW" surname="Lector" degree="assistant" salary="1200"/>
+</dataset>

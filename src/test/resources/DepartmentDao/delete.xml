@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <departments id="1" name="Applied math" head="1"/>
+    <departments id="2" name="Physics" head="2"/>
+</dataset>
